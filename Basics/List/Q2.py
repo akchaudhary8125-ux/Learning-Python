@@ -8,10 +8,6 @@ Sorts the list in descending order
 Removes all even numbers from the list
 Prints the final list"""
 
-# lst = []
-
-# a,b,c,d,e = int(input("Enter 5 integers: "))
-# print(a,b,c,d,e)
 
 lst = []
 
