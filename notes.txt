@@ -1,0 +1,5 @@
+hello how are you
+I am learning Python
+you know Python is a very good programming language for AI/ML
+my goal is to become an AI developer
+Thank You
